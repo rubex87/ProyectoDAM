@@ -14,6 +14,6 @@ Contribuciones y Feedback
 
 
 Licencia
-Este proyecto está bajo la Licencia MIT
+Este proyecto está bajo la Licencia Creative Commons
 Copyright (c) 2024 Rubén Morales Arquelladas
 
