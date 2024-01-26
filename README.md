@@ -10,6 +10,8 @@ Gráficos y Diseño de Sonido: Estilo visual clásico de 2D con efectos de sonid
 Cómo Jugar
 Descarga el juego, ejecútalo en tu sistema y sumérgete en un mundo de aventuras. El juego es intuitivo y fácil de aprender, ideal para sesiones de juego rápidas y entretenidas.
 
+https://simmer.io/@ruben97/damruben2021 aqui se puede jugar online
+
 Contribuciones y Feedback
 
 
